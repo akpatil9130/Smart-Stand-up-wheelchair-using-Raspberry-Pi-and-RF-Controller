@@ -1,0 +1,2 @@
+# Smart-Stand-up-wheelchair-using-Raspberry-Pi-and-RF-Controller
+ Smart Stand-up wheelchair using Raspberry Pi and RF Controller is mechanically controlled devices designed to have self mobility with the help of the user command. This reduces the user’s human effort and force to drive the wheels for wheelchair .Furthermore it also provides an opportunity for visually or physically impaired persons to move from one place to another.
